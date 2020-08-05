@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
+// Faca um programa que receba tres notas e seus respectivos pesos, calcule e mostre a media ponderada dessas notas
+
+int main(){
 	
 	float nota1, nota2, nota3, peso1, peso2, peso3, media;
 	

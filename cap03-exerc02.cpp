@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
+// Faca um programa que receba tres notas, calcule e mostre a media aritmetica entre elas.
+
+int main(){
 	
 	float nota1, nota2, nota3, soma, media;
 	
